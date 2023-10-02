@@ -1,0 +1,2 @@
+# Pedometer
+MATLAB pedometer
